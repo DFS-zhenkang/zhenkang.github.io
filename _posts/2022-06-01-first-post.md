@@ -1,10 +1,8 @@
 ---
 layout: post
 title:  "My New Post"
-date:   2022-06-01 08:43:59
+date:   2015-06-01 08:43:59
 author: Tan Zhen Kang
-categories: Dummy
-tags: hello
 ---
 
 Welcome to my first post!  
