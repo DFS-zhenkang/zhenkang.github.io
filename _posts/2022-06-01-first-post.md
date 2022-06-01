@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My First Post
+categories: New Post
 ---
 
 Welcome to my first post!  
