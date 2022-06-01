@@ -5,7 +5,7 @@ date:   2015-04-18T14:25:52-05:00
 author: Tan Zhen Kang
 categories: Jekyll
 tags:	jekyll welcome
-cover:  "/assets/instacode.png"
+cover:  ""
 ---
 
 
